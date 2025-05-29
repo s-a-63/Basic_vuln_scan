@@ -55,7 +55,7 @@ The goal was to identify common security vulnerabilities, understand their sever
 
 ## 📁 Files in this repository
 ### ▶️  [`Documents/`](./Documents/)
-- Screenshot of the scan result
+- Screenshots of the scan result
 - Task 3-Vulnerability Scan Report : Word document containing the analysis of the scan
 - Task3 Scan_Report.html: Exported Nessus vulnerability scan report
 
